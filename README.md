@@ -7,6 +7,6 @@ Sleep is for the weak.
 
 Sleep apnea?
 
-Who needs to breath anyway.
+Who needs to breathe anyway.
 
 #boycott oxygen
