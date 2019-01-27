@@ -1,0 +1,9 @@
+Runs on my linux (mac) virtual machine
+Analyzes a .wav file from within the same directory
+  You will need to download one from the sleep slack
+It correctly identifies the time sections with an apnea episode
+If you can get it to run try to do the rest of the backend stuff
+I will be sleeping starting now (6:30am)
+You can use python to make an ugly ass GUI which will not run on a phone but on your laptop
+
+~Braelyn
