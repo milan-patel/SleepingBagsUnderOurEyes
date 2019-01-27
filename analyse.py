@@ -20,4 +20,7 @@ print(realSilences)
 if len(realSilences) > 15: # current audio is like 5 minutes
 	apnea = 1
 
-print("hellome")
+if (apnea):
+    print("You likely have sleep apnea")
+else:
+    print("It in unlikely you have sleep apnea")
